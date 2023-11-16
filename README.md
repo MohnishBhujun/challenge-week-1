@@ -10,6 +10,6 @@ Below is the link and screenshots of the website
 
 https://mohnishbhujun.github.io/challenge-week-1/
 
-![Screenshot (1)](https://github.com/MohnishBhujun/challenge-week-1/assets/149837818/67d083bc-4445-4714-8140-1b1eb2cae856)
+![Screenshot (19)](https://github.com/MohnishBhujun/challenge-week-1/assets/149837818/9c28656f-6c72-489f-a5e4-124a11d630b6)
 
-![Screenshot (2)](https://github.com/MohnishBhujun/challenge-week-1/assets/149837818/ce9287c2-8ffc-4d01-b123-bddf9c5087b9)
+![Screenshot (20)](https://github.com/MohnishBhujun/challenge-week-1/assets/149837818/0b0d91e2-16aa-4cfa-84c3-3afc62e3734c)
